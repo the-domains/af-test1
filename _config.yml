@@ -2,6 +2,7 @@ name: AF-test1
 favicon: null
 layout_spectrum: 0.1947945482097566
 typography_spectrum: 0.39926876686513424
+title: "Andrew's Grid experience"
 cta:
   domain: null
   bucket: null
