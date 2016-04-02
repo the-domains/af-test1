@@ -1,7 +1,7 @@
 name: AF-test1
 favicon: null
-layout_spectrum: 0.1947945482097566
-typography_spectrum: 0.39926876686513424
+layout_spectrum: 0.41697
+typography_spectrum: 0.23166
 title: "Andrew's Grid experience"
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.7379869287833571
+    - '#dedf84'
+    - '#161712'
+    - '#89883b'
+    - '#3b3d33'
+    - '#fffffb'
+  brandStrength: 0.5625
   lightness: 0.8184618053492159
-  saturation: 0.8732557783368975
+  saturation: 0.75
   rhythmicContrast: 0.8368299405556172
 purpose: []
